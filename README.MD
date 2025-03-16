@@ -22,6 +22,14 @@ As alterações realizadas neste repositório têm como foco garantir que a docu
 <p align="center">
 <u>Toda a documentação originalmente em Inglês foi traduzida para o português.</u></p>
 
+<p align="center">
+  <img src="./_docs/assets/DOCUMENTANDO-COM-COPILOT.png" alt="Documentando com Copilot" />
+</p>
+
+--------------
+<br>
+<br>
+
 <BR>
 
 <p align="center">
